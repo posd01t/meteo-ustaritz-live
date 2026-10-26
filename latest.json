@@ -1,6 +1,6 @@
 {
   "station": "Ustaritz",
-  "updated": "2026-10-26T02:16:48.378089+01:00",
+  "updated": "2026-10-26T07:26:42.328023+01:00",
   "current": {
     "temperature_c": null,
     "humidity_pct": null,
@@ -17,7 +17,7 @@
     "last_6h_mm": 0.0,
     "last_24h_mm": 0.0,
     "last_48h_mm": 0.0,
-    "last_72h_mm": 20.5,
+    "last_72h_mm": 10.1,
     "last_7d_mm": 51.3,
     "last_rain": "2026-10-23T15:00:00+02:00"
   }
