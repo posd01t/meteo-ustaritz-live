@@ -1,14 +1,14 @@
 {
   "station": "Ustaritz",
-  "updated": "2026-11-03T16:15:57.712160+01:00",
+  "updated": "2026-11-03T22:06:44.133914+01:00",
   "current": {
-    "temperature_c": 10.7,
-    "humidity_pct": 66.0,
-    "pressure_hpa": 1007.3,
-    "wind_kmh": 1.1,
-    "wind_gust_kmh": 3.6,
-    "wind_direction_deg": 333.0,
-    "solar_w_m2": 68.5,
+    "temperature_c": 8.2,
+    "humidity_pct": 81.0,
+    "pressure_hpa": 1007.1,
+    "wind_kmh": 3.2,
+    "wind_gust_kmh": 5.4,
+    "wind_direction_deg": 82.0,
+    "solar_w_m2": 0.0,
     "uv": 0.0,
     "rain_rate_mm_h": 0.0
   },
